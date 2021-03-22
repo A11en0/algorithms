@@ -1,0 +1,14 @@
+Learning algorithms with python on the leetcode.
+
+* Files/Directory Description
+** optimal: the code of the course optimization method, refer to the book 《最优化方法 解可新》
+    + fibo_solve.py: Fibonacci search method  斐波那契搜索
+    + gold_solve.py: Golden ratio search method 黄金比例搜索
+
+** trick: some useful tricks in programing with Python/Java
+	+ dict_reverse.py: Use zip to do dict reverse
+	+ trick_zip.py: Use zip to shuffle datasets, which offen used in machine learning algorithm
+
+** others: leecode
+    + coin: Dynamic Programing
+
